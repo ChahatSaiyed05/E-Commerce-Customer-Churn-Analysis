@@ -9,7 +9,7 @@ High customer attrition erodes retail profitability due to significant Customer 
 * **GitHub & Google Drive:** Cloud version control, portfolio hosting, and public file sharing.
 
 ## 📊 Interactive Dashboard Link
-* **Access the Power BI Dashboard (`.pbix`):** [View / Download Interactive Dashboard on Google Drive](https://google.com)
+* **Access the Power BI Dashboard (`.pbix`):** https://drive.google.com/file/d/1WyUM5-7Z1_oY-ka_34Nfta8UUL8GnLvF/view?usp=drive_link
 
 ## 🔍 Key Findings
 * **Onboarding Vulnerability Window:** Customer attrition spikes to **78.05%** during **Months 0 and 1**. Once shoppers survive past Month 2, retention stabilizes across the customer lifecycle.
